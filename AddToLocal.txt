@@ -2,6 +2,4 @@ Hi,
 
 This is first file to be copied in Local Repo.
 
-Here are some changes.
-
 Thanks.
